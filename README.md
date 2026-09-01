@@ -27,7 +27,6 @@ climatically driven environmental constraints that altered Britain’s habitable
 past allude to probable future shifts in global habitability, which are likely to be artificially 
 accelerated by global warming. 
 
-
 Each Script.py has a corresponding Output.zip.
 
 The binary environmental constraints and palaeotopographic features required for the construction
@@ -39,3 +38,12 @@ Once environmental and palaeotopgraphic elements are modelled, run Habitability_
 Sample_Assembly_Script, RF_APM_Script and finally Resampled_Predictive_Surfaces_Script.
 
 Archaeological database created for project included in supplementary data.
+
+To request access to the unpublished dissertation, or for additional inquiries, please contact this
+author.
+
+To reuse the scripts or data in this repository, please cite:
+
+Brissette, Sophie.
+2026. Modelling Archaeological Potential in Britain from the Late Pleistocene to the Early Holocene through 
+Palaeogeographic and Environmental Reconstructions. Unpublished Master of Science Dissertation, University of Oxford.
