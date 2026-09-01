@@ -2,11 +2,10 @@
 Modelling Archaeological Potential in Britain from the Late Pleistocene to the Early Holocene 
 through Palaeogeographic and Environmental Reconstructions
 
-Supplementary Data and APM Scripts included in University of Oxford Spatial Archaeology MSC 
-Dissertation. 
+Supplementary Data and Archaeological Predictive Model Scripts included as part of University of Oxford 
+Spatial Archaeology MSC Dissertation. 
 
 Project Abstract:
-
 Modelling archaeological potential in Britain from the Late Pleistocene to the Early Holocene 
 through palaeogeographic and environmental reconstructions provides insight into the spatial 
 relationship between prehistoric peoples and changing environments. This contextualisation of 
@@ -37,6 +36,6 @@ of the Habitability rasters are included in the Habitability Outputs.zip.
 To reproduce the project outputs for a different dataset, reconstruct desired environmental features.
 
 Once environmental and palaeotopgraphic elements are modelled, run Habitability_Script, then
-Sample_Assembly_Script, them RF_APM_Script.
+Sample_Assembly_Script, RF_APM_Script and finally Resampled_Predictive_Surfaces_Script.
 
 Archaeological database created for project included in supplementary data.
